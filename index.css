@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game {
+    text-align: center;
+}
+
+.heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.but {
+    height: 70px;
+}
+
+.move-icon {
+    border: 3px solid white;
+    background-color: transparent;
+    height: 145px;
+    width: 145px;
+    border-radius: 75px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.madechoice img {
+    background-color: transparent;
+    height: 70px;
+    width: 70px;
+    border: none;
+
+}
+
+#winLo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.reset {
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 5px;
+}
